@@ -11,7 +11,7 @@ const default_config = {
     iconColor: "#f38ba8",
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://github.com/sherryhock/catppuccin-startpage/blob/main/userconfig.js",
   openLastVisitedTab: true,
   tabs: [
     {
