@@ -22,9 +22,9 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "monkeyType",
+              url: "https://monkeytype.com/",
+              icon: "keyboard",
               icon_color: "#a6e3a1",
             },
             {
