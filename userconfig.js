@@ -28,10 +28,16 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
+              name: "wechat",
+              url: "https://web.wechat.com/",
+              icon: "brand-wecaht",
+              icon_color: "#fab387",
+            },
+            {
               name: "musicForProgramming();",
               url: "https://musicforprogramming.net/sixty",
               icon: "binary-tree",
-              icon_color: "#fab387",
+              icon_color: "#f38ba8",
             },
           ],
         },
